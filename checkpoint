@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/carrt/Dropbox/catkin_ws/src/nn_grasp/tf_grasp_model.ckpt"
+all_model_checkpoint_paths: "/home/carrt/Dropbox/catkin_ws/src/nn_grasp/tf_grasp_model.ckpt"
